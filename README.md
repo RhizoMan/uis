@@ -1,0 +1,2 @@
+# uis
+Universitetet i Stavanger
